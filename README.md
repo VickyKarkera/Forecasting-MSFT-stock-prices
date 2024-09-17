@@ -23,6 +23,8 @@ The goal is to predict future stock prices and evaluate model performance.
 
 ## Visualizations
 ![Stock Prices Over Time](image.png)
+![image](https://github.com/user-attachments/assets/bbdfff95-45cc-4d3b-9653-5829c66df772)
+
 ![Non-Stationary vs Stationary Data](image-1.png))
 
 ## Technologies Used
