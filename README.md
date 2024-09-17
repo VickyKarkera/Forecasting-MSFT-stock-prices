@@ -26,3 +26,7 @@ The goal is to predict future stock prices and evaluate model performance.
 ## Technologies Used
 - Python (Pandas, NumPy, Matplotlib)
 - ARIMA, ExponentialSmoothing
+
+## Files Purpose
+- extract_data.py: script to retrieve monthly average stock closing prices from yahoo finance
+- tsa_microsoft.ipynb: main notebook with analysis results 
