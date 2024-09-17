@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/bbdfff95-45cc-4d3b-9653-5829c66df772)
+
 # Time Series Analysis on Microsoft Stock Data
 
 This project analyzes Microsoft's stock data using time series techniques. The following are methods I used and their intended purpose:
@@ -21,14 +23,6 @@ The goal is to predict future stock prices and evaluate model performance.
 - Techniques: Time series Trend Seasonal Error decomposition, ARIMA, Exponential Smoothing ETS.
 - Key Findings: ARIMA model with simple first differencing proved to be better for our use case in comparison to the other more complex techniques.
 
-## Visualizations
-![Stock Prices Over Time](image.png)
-![image](https://github.com/user-attachments/assets/bbdfff95-45cc-4d3b-9653-5829c66df772)
-
-![Non-Stationary vs Stationary Data](image-1.png))
-
 ## Technologies Used
 - Python (Pandas, NumPy, Matplotlib)
 - ARIMA, ExponentialSmoothing
-
-[View the full notebook](link_to_notebook)
